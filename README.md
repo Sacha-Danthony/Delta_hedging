@@ -4,6 +4,10 @@
 Simuler une stratégie de delta hedging sur le S&P500 et quantifier 
 les imperfections du hedge en pratique.
 
+## Graphiques
+
+![P&L Delta Hedging](pnl_delta_hedge.png)
+
 ## Méthodologie
 - Données historiques S&P500 sur 252 jours de trading (yfinance)
 - Calcul du delta via Black-Scholes à chaque rebalancement
