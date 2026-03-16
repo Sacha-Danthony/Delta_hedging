@@ -6,7 +6,7 @@ les imperfections du hedge en pratique.
 
 ## Graphiques
 
-![P&L Delta Hedging](pnl_delta_hedge.png)
+![P&L Delta Hedging](P&L delta hedge.png)
 
 ## Méthodologie
 - Données historiques S&P500 sur 252 jours de trading (yfinance)
